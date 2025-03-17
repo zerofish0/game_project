@@ -1,2 +1,2 @@
-# game_project
-Projet du jeu
+# Projet jeu
+
