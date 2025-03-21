@@ -1,4 +1,6 @@
 # Projet jeu
+## Modules nécéssaires : 
+- pygame
 ## Alias
 import pygame as pg
 
