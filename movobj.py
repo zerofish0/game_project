@@ -2,7 +2,7 @@ import pygame as pg
 
 # Création de la superclasse pour tout les objets mobiles
 class MovObj:
-    def __init__(self,hspd, vspd,maxspd, x, y, image):
+    def __init__(self, hspd, vspd, maxspd, x, y, image):
         self.hspd = hspd
         self.vspd = vspd
         self.maxspd = maxspd
