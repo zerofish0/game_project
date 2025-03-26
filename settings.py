@@ -1,4 +1,4 @@
-#Mettre toutes les valeurs contantes ici
+#Mettre toutes les valeurs constantes ici
 #puis importer avec import settings as sg
 import pygame as pg
 
