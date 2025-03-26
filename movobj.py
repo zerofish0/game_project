@@ -3,8 +3,8 @@ import pygame as pg
 # Création de la superclasse pour tout les objets mobiles
 class MovObj:
     def __init__(self, hspd, vspd, maxspd, x, y, image):
-        self.hspd = hspd
-        self.vspd = vspd
+        self.hspd = hspd #horizontale speed
+        self.vspd = vspd #verticale speed
         self.maxspd = maxspd
         self.image = image
         self.rect = self.image.get_rect(x=x, y=y)
